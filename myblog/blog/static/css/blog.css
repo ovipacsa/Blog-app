@@ -1,0 +1,112 @@
+#border{
+  border-bottom: solid;
+  border-color: 	#F8F8FF;
+  margin-right: -400px;
+}
+
+.com-display{
+    color:white;
+    background-color:	#19194d;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.post-form{
+  color:#A52A2A;
+}
+
+.jumbotron {
+  background-color: black;
+  color:#48D1CC;
+  margin-right: -400px;
+  border-style: double;
+  border-color: #48D1CC;
+  }
+
+body{
+  background-color: #140032;
+}
+
+h1 {
+
+  color:	#48D1CC;
+  font-family: 'Russo One', sans-serif;
+  border-bottom-style:ridge;
+  border-color: #48D1CC;
+  margin-right: -400px;
+}
+
+.techfont {
+  font-family: 'Russo One', sans-serif;
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color:	#48D1CC;
+
+}
+
+#one {
+color:#48D1CC;
+}
+
+#name{
+
+  color:#A52A2A;
+}
+#date{
+color:	#A52A2A;
+}
+
+#comments{
+color:	#F8F8FF;
+}
+
+.title{
+  font-family: 'Russo One', sans-serif;
+  background-color:	#19194d;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.details {
+  font-family: 'Spirax', cursive;
+
+}
+
+.postdate{
+  text-align: right;
+  margin-right: -400px;
+  color: #A52A2A;
+}
+
+.postcontent{
+  font-family: 'Montserrat';
+  font-size: 1.5em;
+  color: white;
+}
+
+.centerstage{
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.btn-comment{
+  position: absolute;
+  right: 0px;
+  margin-right: -400px;
+}
+
+.bigbrand{
+  font-size: 1.5em;
+}
+
+.textareaclass{
+  border: 2px solid red;
+}
